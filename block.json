@@ -1,0 +1,11 @@
+{
+  "apiVersion": 2,
+  "title": "Koi Collection",
+  "name": "koi/collection",
+  "category": "layout",
+  "icon": "cart",
+  "editorScript": "file:./block.js",
+  "supports": {
+    "multiple": false
+  }
+}

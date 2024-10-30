@@ -1,0 +1,9 @@
+.koi-block-collection {
+    display: none;
+}
+
+.koi-select {
+    display: block;
+    margin: 20px auto;
+    width: 50%;
+}
